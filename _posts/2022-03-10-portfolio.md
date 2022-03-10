@@ -8,6 +8,7 @@ title: Portfolio
 <p>2021.10 ~ 2021.12     전남 지역 명산 정보 제공 서비스 개발 프로젝트</p>
 
 ### 피부분석/설문조사 기반 화장품 추천 앱 개발 프로젝트
+링크 : https://github.com/2021-SMHRD-KDT-AI-7/Debugging
 ##### 1.  개요
 - Faster R-CNN 객체 인식을 통해 여드름, 블랙헤드를 감지
 - 바우만 테스트를 통한 피부 타입 분석
@@ -45,6 +46,7 @@ title: Portfolio
 
 
 ### 전남 지역 명산 정보 제공 서비스 개발 프로젝트
+링크 : https://github.com/2021-SMHRD-KDT-AI-7/ClimbingMountain
 ##### 1.  개요
 - 산 , 등산로 정보 제공
 - 등산자들을 위한 게시판, 본인만 볼 수 있는 다이어리게시판
