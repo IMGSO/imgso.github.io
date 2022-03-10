@@ -3,38 +3,38 @@ layout: post
 title: Portfolio
 ---
 
-### Activity
+# Activity
 2021.08 ~ 2022.02     인공지능 융합서비스 개발자과정(NCS) 수료
 <br>
 2022.01 ~ 2022.02     피부분석/설문조사 기반 화장품 추천 앱 개발 프로젝트
 <br>
 2021.10 ~ 2021.12     전남 지역 명산 정보 제공 서비스 개발 프로젝트
 
-### Skills
+# Skills
 - Java/Python
 - HTML/CSS/Javascript
 - JSP/Servlet
 - Android Studio
 - Oracle DB
 
-### Projects
+# Projects
 
-#### 1. 피부분석/설문조사 기반 화장품 추천 앱 개발 프로젝트
+## 1. 피부분석/설문조사 기반 화장품 추천 앱 개발 프로젝트
 링크 : <https://github.com/2021-SMHRD-KDT-AI-7/Debugging>
 
 
-##### 1-1  개요
+### 1-1  개요
 - Faster R-CNN 객체 인식을 통해 여드름, 블랙헤드를 감지
 - 바우만 테스트를 통한 피부 타입 분석
 - 사용자에게 맞는 화장품을 추천해주고, 피부 분석 결과들을 기록한다.
 
-##### 1-2  스킬
+### 1-2  스킬
 - Java (Android Studio)
 - Python (Faster R-CNN
 - OracleDB
 
 
-##### 1-3  결과
+### 1-3  결과
 ![1](https://user-images.githubusercontent.com/48702606/157688236-f19f6ca0-7077-4aab-a7f3-e971a7346f7f.png)
 ![2](https://user-images.githubusercontent.com/48702606/157688242-bb624a33-8bdd-4afb-abb5-3b1c366b186a.png)
 ![3](https://user-images.githubusercontent.com/48702606/157688246-4d1aed88-b63e-45e2-a329-256d18d0f975.png)
@@ -59,19 +59,19 @@ title: Portfolio
 ![23](https://user-images.githubusercontent.com/48702606/157688304-73e3ac86-d500-485a-a831-50405e30f030.png)
 
 
-#### 2. 전남 지역 명산 정보 제공 서비스 개발 프로젝트
+## 2. 전남 지역 명산 정보 제공 서비스 개발 프로젝트
 링크 : <https://github.com/2021-SMHRD-KDT-AI-7/ClimbingMountain>
 
-##### 2-1  개요
+### 2-1  개요
 - 산 , 등산로 정보 제공
 - 등산자들을 위한 게시판, 본인만 볼 수 있는 다이어리게시판
 - 날씨 정보 제공
 
-##### 2-2  스킬
+### 2-2  스킬
 - Java (Jsp/Servlet) 
 - OracleDB
 
-##### 2-3  결과
+### 2-3  결과
 
 ![1](https://user-images.githubusercontent.com/48702606/157673840-e11eeb80-32d3-441f-9f1f-a8c45ac6bbc9.png)
 ![2](https://user-images.githubusercontent.com/48702606/157673616-ecb37175-3ddd-4188-977f-cd380e2bd771.png)
