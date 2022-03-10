@@ -19,8 +19,8 @@ title: Portfolio
 - OracleDB
 
 ##### 3.  결과
-<p>
-<div style="width:50%">![1](https://user-images.githubusercontent.com/48702606/157671436-43627758-d2ed-45fe-bbd2-676259857de2.png)</div>
+
+![1](https://user-images.githubusercontent.com/48702606/157671436-43627758-d2ed-45fe-bbd2-676259857de2.png)
 ![2](https://user-images.githubusercontent.com/48702606/157671441-a71b744a-debe-4dda-8089-c2364fcbb5e8.png)
 ![3](https://user-images.githubusercontent.com/48702606/157671444-e01239a0-a8f2-474e-bdfd-414ad51ffe0d.png)
 ![4](https://user-images.githubusercontent.com/48702606/157671446-50ab674c-a6f0-4fd4-ba62-ba31f236f8e6.png)
@@ -42,7 +42,7 @@ title: Portfolio
 ![21](https://user-images.githubusercontent.com/48702606/157671497-abaf6bdc-b8f0-488b-8a12-bcf4fcc34d91.png)
 ![22](https://user-images.githubusercontent.com/48702606/157671502-727a21cb-4722-47a6-8739-2d35cfadfab7.png)
 ![23](https://user-images.githubusercontent.com/48702606/157671504-d52408d1-7f4c-45b3-8bd5-f023bb04647b.png)
-</p>
+
 
 ### 전남 지역 명산 정보 제공 서비스 개발 프로젝트
 ##### 1.  개요
