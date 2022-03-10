@@ -2,13 +2,19 @@
 layout: post
 title: Portfolio
 ---
+<div>
 ### Activity
 <p>2021.08 ~ 2022.02     인공지능 융합서비스 개발자과정(NCS) 수료</p>
 <p>2022.01 ~ 2022.02     피부분석/설문조사 기반 화장품 추천 앱 개발 프로젝트</p>
 <p>2021.10 ~ 2021.12     전남 지역 명산 정보 제공 서비스 개발 프로젝트</p>
+</div>
 
+<div>
 ### 피부분석/설문조사 기반 화장품 추천 앱 개발 프로젝트
 <p>링크 : https://github.com/2021-SMHRD-KDT-AI-7/Debugging </p>
+</div>
+
+<div>
 ##### 1.  개요
 - Faster R-CNN 객체 인식을 통해 여드름, 블랙헤드를 감지
 - 바우만 테스트를 통한 피부 타입 분석
@@ -18,9 +24,10 @@ title: Portfolio
 - Java (Android Studio) 
 - Python (Faster R-CNN 
 - OracleDB
+</div>
 
+<div>
 ##### 3.  결과
-
 <img scr="https://user-images.githubusercontent.com/48702606/157671436-43627758-d2ed-45fe-bbd2-676259857de2.png">
 ![2](https://user-images.githubusercontent.com/48702606/157671441-a71b744a-debe-4dda-8089-c2364fcbb5e8.png)
 ![3](https://user-images.githubusercontent.com/48702606/157671444-e01239a0-a8f2-474e-bdfd-414ad51ffe0d.png)
@@ -43,7 +50,7 @@ title: Portfolio
 ![21](https://user-images.githubusercontent.com/48702606/157671497-abaf6bdc-b8f0-488b-8a12-bcf4fcc34d91.png)
 ![22](https://user-images.githubusercontent.com/48702606/157671502-727a21cb-4722-47a6-8739-2d35cfadfab7.png)
 ![23](https://user-images.githubusercontent.com/48702606/157671504-d52408d1-7f4c-45b3-8bd5-f023bb04647b.png)
-
+</div>
 
 ### 전남 지역 명산 정보 제공 서비스 개발 프로젝트
 링크 : https://github.com/2021-SMHRD-KDT-AI-7/ClimbingMountain
