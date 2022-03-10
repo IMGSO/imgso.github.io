@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ortfolio
+title: Portfolio
 ---
 # ACTIVITY
 <p>2021.08 ~ 2022.02     인공지능 융합서비스 개발자과정(NCS) 수료</p>
