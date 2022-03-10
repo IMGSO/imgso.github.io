@@ -20,7 +20,7 @@ title: Portfolio
 ### Projects
 
 #### 1. 피부분석/설문조사 기반 화장품 추천 앱 개발 프로젝트
-링크 : https://github.com/2021-SMHRD-KDT-AI-7/Debugging
+링크 : <a href="https://github.com/2021-SMHRD-KDT-AI-7/Debugging></a>
 
 
 ##### 1-1  개요
@@ -60,7 +60,8 @@ title: Portfolio
 
 
 #### 2. 전남 지역 명산 정보 제공 서비스 개발 프로젝트
-링크 : https://github.com/2021-SMHRD-KDT-AI-7/ClimbingMountain
+링크 : <a href="https://github.com/2021-SMHRD-KDT-AI-7/ClimbingMountain></a>
+
 ##### 2-1  개요
 - 산 , 등산로 정보 제공
 - 등산자들을 위한 게시판, 본인만 볼 수 있는 다이어리게시판
