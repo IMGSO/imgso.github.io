@@ -14,7 +14,7 @@ title: Portfolio
 - Java/Python
 - HTML/CSS/Javascript
 - JSP/Servlet
-- 
+- Android Studio
 - Oracle DB
 
 
