@@ -17,9 +17,9 @@ title: Portfolio
 - Android Studio
 - Oracle DB
 
+### Projects
 
-
-### 피부분석/설문조사 기반 화장품 추천 앱 개발 프로젝트
+#### 1. 피부분석/설문조사 기반 화장품 추천 앱 개발 프로젝트
 링크 : https://github.com/2021-SMHRD-KDT-AI-7/Debugging
 
 
@@ -59,7 +59,7 @@ title: Portfolio
 ![23](https://user-images.githubusercontent.com/48702606/157688304-73e3ac86-d500-485a-a831-50405e30f030.png)
 
 
-### 전남 지역 명산 정보 제공 서비스 개발 프로젝트
+#### 2. 전남 지역 명산 정보 제공 서비스 개발 프로젝트
 링크 : https://github.com/2021-SMHRD-KDT-AI-7/ClimbingMountain
 ##### 1.  개요
 - 산 , 등산로 정보 제공
