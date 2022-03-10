@@ -18,7 +18,12 @@ title: Portfolio
 - Python (Faster R-CNN 
 - OracleDB
 
-
+##### 3.  결과
+<img src="https://user-images.githubusercontent.com/48702606/157667798-ce4747dc-d4e3-4609-b264-fa060b9fa7fb.png  width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/48702606/157667811-8f931b62-2000-4e18-8575-f0353919615d.png  width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/48702606/157667819-12f94de6-fcc0-4683-97e0-06675800f702.png  width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/48702606/157667827-dfe2a662-3372-4315-b3e3-f26e38eae056.png  width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/48702606/157667836-d797df8f-3a31-454d-9c5c-6ca81015ddbf.png  width="200" height="400"/>
 
 
 ### 전남 지역 명산 정보 제공 서비스 개발 프로젝트
