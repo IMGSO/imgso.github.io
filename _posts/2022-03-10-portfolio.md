@@ -20,12 +20,12 @@ title: Portfolio
 
 ##### 3.  결과
 
-![1](https://user-images.githubusercontent.com/48702606/157671436-43627758-d2ed-45fe-bbd2-676259857de2.png =100x20)
-![2](https://user-images.githubusercontent.com/48702606/157671441-a71b744a-debe-4dda-8089-c2364fcbb5e8.png =100x20)
-![3](https://user-images.githubusercontent.com/48702606/157671444-e01239a0-a8f2-474e-bdfd-414ad51ffe0d.png =100x20)
-![4](https://user-images.githubusercontent.com/48702606/157671446-50ab674c-a6f0-4fd4-ba62-ba31f236f8e6.png =100x20)
-![5](https://user-images.githubusercontent.com/48702606/157671448-e31f08f9-143b-49ac-82cd-3baa5d99b117.png =100x20)
-![6](https://user-images.githubusercontent.com/48702606/157671451-7d4fc414-444c-4a99-90e7-780efcb2fc54.png =100x20)
+![1](https://user-images.githubusercontent.com/48702606/157671436-43627758-d2ed-45fe-bbd2-676259857de2.png)
+![2](https://user-images.githubusercontent.com/48702606/157671441-a71b744a-debe-4dda-8089-c2364fcbb5e8.png)
+![3](https://user-images.githubusercontent.com/48702606/157671444-e01239a0-a8f2-474e-bdfd-414ad51ffe0d.png)
+![4](https://user-images.githubusercontent.com/48702606/157671446-50ab674c-a6f0-4fd4-ba62-ba31f236f8e6.png)
+![5](https://user-images.githubusercontent.com/48702606/157671448-e31f08f9-143b-49ac-82cd-3baa5d99b117.png)
+![6](https://user-images.githubusercontent.com/48702606/157671451-7d4fc414-444c-4a99-90e7-780efcb2fc54.png)
 ![7](https://user-images.githubusercontent.com/48702606/157671455-6f8ba2b6-08b1-42cc-bf55-88206c6571b6.png)
 ![8](https://user-images.githubusercontent.com/48702606/157671460-cd32c4cd-545b-49fd-ba96-4a64354f6922.png)
 ![9](https://user-images.githubusercontent.com/48702606/157671465-60d46aca-1147-4dc9-9eee-a1d7f0f346a4.png)
