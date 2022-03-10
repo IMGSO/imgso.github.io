@@ -5,9 +5,11 @@ title: Portfolio
 
 ### Activity
 <div>
-<p>2021.08 ~ 2022.02     인공지능 융합서비스 개발자과정(NCS) 수료</p>
-<p>2022.01 ~ 2022.02     피부분석/설문조사 기반 화장품 추천 앱 개발 프로젝트</p>
-<p>2021.10 ~ 2021.12     전남 지역 명산 정보 제공 서비스 개발 프로젝트</p>
+2021.08 ~ 2022.02     인공지능 융합서비스 개발자과정(NCS) 수료
+<br>
+2022.01 ~ 2022.02     피부분석/설문조사 기반 화장품 추천 앱 개발 프로젝트
+<br>
+2021.10 ~ 2021.12     전남 지역 명산 정보 제공 서비스 개발 프로젝트
 </div>
 
 
@@ -20,21 +22,25 @@ title: Portfolio
 ##### 1.  개요
 <div>
 - Faster R-CNN 객체 인식을 통해 여드름, 블랙헤드를 감지
+<br>
 - 바우만 테스트를 통한 피부 타입 분석
+<br>
 - 사용자에게 맞는 화장품을 추천해주고, 피부 분석 결과들을 기록한다.
 </div>
 
 ##### 2.  스킬
 <div>
-- Java (Android Studio) 
-- Python (Faster R-CNN 
+- Java (Android Studio)
+<br>
+- Python (Faster R-CNN
+<br>
 - OracleDB
 </div>
 
 
 ##### 3.  결과
 <div>
-<img scr="https://user-images.githubusercontent.com/48702606/157671436-43627758-d2ed-45fe-bbd2-676259857de2.png">
+![1](https://user-images.githubusercontent.com/48702606/157671436-43627758-d2ed-45fe-bbd2-676259857de2.png){: width="100" height="100"}
 ![2](https://user-images.githubusercontent.com/48702606/157671441-a71b744a-debe-4dda-8089-c2364fcbb5e8.png)
 ![3](https://user-images.githubusercontent.com/48702606/157671444-e01239a0-a8f2-474e-bdfd-414ad51ffe0d.png)
 ![4](https://user-images.githubusercontent.com/48702606/157671446-50ab674c-a6f0-4fd4-ba62-ba31f236f8e6.png)
