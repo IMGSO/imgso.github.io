@@ -41,6 +41,7 @@ title: Portfolio
 ##### 3.  결과
 <div>
 ![1](https://user-images.githubusercontent.com/48702606/157671436-43627758-d2ed-45fe-bbd2-676259857de2.png){: width="100" height="100"}
+<br>
 ![2](https://user-images.githubusercontent.com/48702606/157671441-a71b744a-debe-4dda-8089-c2364fcbb5e8.png)
 ![3](https://user-images.githubusercontent.com/48702606/157671444-e01239a0-a8f2-474e-bdfd-414ad51ffe0d.png)
 ![4](https://user-images.githubusercontent.com/48702606/157671446-50ab674c-a6f0-4fd4-ba62-ba31f236f8e6.png)
