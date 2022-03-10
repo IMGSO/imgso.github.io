@@ -14,8 +14,8 @@ title: Portfolio
 - 사용자에게 맞는 화장품을 추천해주고, 피부 분석 결과들을 기록한다.
 
 ##### 2.  스킬
-- Java
-- Python
+- Java (Android Studio) 
+- Python (Faster R-CNN 
 - OracleDB
 
 
