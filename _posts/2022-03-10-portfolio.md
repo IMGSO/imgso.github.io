@@ -4,65 +4,50 @@ title: Portfolio
 ---
 
 ### Activity
-<div>
 2021.08 ~ 2022.02     인공지능 융합서비스 개발자과정(NCS) 수료
-<br>
 2022.01 ~ 2022.02     피부분석/설문조사 기반 화장품 추천 앱 개발 프로젝트
-<br>
 2021.10 ~ 2021.12     전남 지역 명산 정보 제공 서비스 개발 프로젝트
-</div>
 
 
 ### 피부분석/설문조사 기반 화장품 추천 앱 개발 프로젝트
-<div>
-<p>링크 : https://github.com/2021-SMHRD-KDT-AI-7/Debugging </p>
-</div>
+링크 : https://github.com/2021-SMHRD-KDT-AI-7/Debugging
 
 
 ##### 1.  개요
-<div>
 - Faster R-CNN 객체 인식을 통해 여드름, 블랙헤드를 감지
-<br>
 - 바우만 테스트를 통한 피부 타입 분석
-<br>
 - 사용자에게 맞는 화장품을 추천해주고, 피부 분석 결과들을 기록한다.
-</div>
 
 ##### 2.  스킬
-<div>
 - Java (Android Studio)
-<br>
 - Python (Faster R-CNN
-<br>
 - OracleDB
-</div>
 
 
 ##### 3.  결과
-<div>
-![1](https://user-images.githubusercontent.com/48702606/157675567-7934b3c1-57ea-44af-8852-0ca85d8dcb0e.png)
-![2](https://user-images.githubusercontent.com/48702606/157675572-0edcb7bb-e363-4574-8eca-1592b3c57879.png)
-![3](https://user-images.githubusercontent.com/48702606/157675575-f9be3155-5813-4ae6-a174-5c864eec920a.png)
-![4](https://user-images.githubusercontent.com/48702606/157675578-b379fa40-26be-4d40-9369-ac47bde84e2d.png)
-![5](https://user-images.githubusercontent.com/48702606/157675581-45e73343-4a2c-4513-8994-288128600e3b.png)
-![6](https://user-images.githubusercontent.com/48702606/157675583-164621f0-9433-44f4-a225-64c39d8d8d46.png)
-![7](https://user-images.githubusercontent.com/48702606/157675586-60dcab05-ca54-4bca-9678-ba4337eea0c4.png)
-![8](https://user-images.githubusercontent.com/48702606/157675588-432cbd4c-908b-4fc8-8810-6b3af8a91edd.png)
-![9](https://user-images.githubusercontent.com/48702606/157675591-29886b1c-5cce-4611-86f3-125cffe7c57a.png)
-![11](https://user-images.githubusercontent.com/48702606/157675596-b59f8080-834d-4497-9d2d-2ea229deca28.png)
-![12](https://user-images.githubusercontent.com/48702606/157675599-b50560c5-94e1-4ff4-820a-9dde015de2ee.png)
-![13](https://user-images.githubusercontent.com/48702606/157675601-4ec49b19-45c9-4d30-b6d6-fb2eca4db325.png)
-![14](https://user-images.githubusercontent.com/48702606/157675605-fdc25ab5-78f8-4f34-b19c-7a8884fb9509.png)
-![15](https://user-images.githubusercontent.com/48702606/157675608-f32348df-1571-42e7-8ba9-8834c83da17b.png)
-![16](https://user-images.githubusercontent.com/48702606/157675612-c8ca98c5-508f-4377-b9f3-e2b18933bad1.png)
-![17](https://user-images.githubusercontent.com/48702606/157675616-00ba2ba3-18c1-45eb-9f03-06bdb8b80481.png)
-![18](https://user-images.githubusercontent.com/48702606/157675621-cd75436c-8fa0-4597-8130-80d1c5b4bc00.png)
-![19](https://user-images.githubusercontent.com/48702606/157675624-98acfd22-8aed-41ba-bd41-9b9f1022f01a.png)
-![20](https://user-images.githubusercontent.com/48702606/157675628-254d48d0-2cf0-4cf0-abee-98008d871879.png)
-![21](https://user-images.githubusercontent.com/48702606/157675631-80b6bff9-994c-4068-8234-cbca6aaebb05.png)
-![22](https://user-images.githubusercontent.com/48702606/157675634-9b1adf82-00d2-4167-b532-f191edd36407.png)
-![23](https://user-images.githubusercontent.com/48702606/157675637-1444c1ff-5a47-418d-bad4-19c7dbc1167f.png)
-</div>
+![1](https://user-images.githubusercontent.com/48702606/157688236-f19f6ca0-7077-4aab-a7f3-e971a7346f7f.png)
+![2](https://user-images.githubusercontent.com/48702606/157688242-bb624a33-8bdd-4afb-abb5-3b1c366b186a.png)
+![3](https://user-images.githubusercontent.com/48702606/157688246-4d1aed88-b63e-45e2-a329-256d18d0f975.png)
+![4](https://user-images.githubusercontent.com/48702606/157688248-6d4c3352-52b0-43ec-b60b-7658dbbfbe55.png)
+![5](https://user-images.githubusercontent.com/48702606/157688250-f4b8b327-2d32-4a49-8762-f9697335b8a4.png)
+![6](https://user-images.githubusercontent.com/48702606/157688251-f39f2b05-2835-405a-bb74-3f5d2b5d66cb.png)
+![7](https://user-images.githubusercontent.com/48702606/157688255-1588bf41-693d-4667-89e0-7f03540b4c7e.png)
+![8](https://user-images.githubusercontent.com/48702606/157688258-0c851d7f-131f-478f-9b0a-43c1280c15f7.png)
+![9](https://user-images.githubusercontent.com/48702606/157688264-d04973b1-ccca-4ee4-ad0d-d2c7474983d8.png)
+![11](https://user-images.githubusercontent.com/48702606/157688267-510f96e5-8d34-478f-9ebd-71a62ee69cb3.png)
+![12](https://user-images.githubusercontent.com/48702606/157688268-2e1167c0-c92b-4008-9e79-ade4c5d7ff13.png)
+![13](https://user-images.githubusercontent.com/48702606/157688269-46f16cdd-985d-4d77-9f5c-ec3b1107081f.png)
+![14](https://user-images.githubusercontent.com/48702606/157688273-4821e90b-a669-4776-b8ea-13716881aa18.png)
+![15](https://user-images.githubusercontent.com/48702606/157688277-2fa706cb-5b84-47c3-93e0-195d80af0b3d.png)
+![16](https://user-images.githubusercontent.com/48702606/157688281-97c88ce3-834d-4b5f-b6d4-c3516e677472.png)
+![17](https://user-images.githubusercontent.com/48702606/157688285-c5bc2247-ffe9-414f-8ff9-73e63880f6be.png)
+![18](https://user-images.githubusercontent.com/48702606/157688287-83d22edc-f406-47de-9130-a735aa133c10.png)
+![19](https://user-images.githubusercontent.com/48702606/157688290-1fc0be2b-232c-4bf1-b4d1-8aed2b3f8fa2.png)
+![20](https://user-images.githubusercontent.com/48702606/157688292-4725f5d1-913d-482f-bb20-05454732ad00.png)
+![21](https://user-images.githubusercontent.com/48702606/157688294-1591eeec-2f2e-472e-905e-e15b902ab4b9.png)
+![22](https://user-images.githubusercontent.com/48702606/157688299-70111555-63d0-4d03-aa71-f1ec3510aba5.png)
+![23](https://user-images.githubusercontent.com/48702606/157688304-73e3ac86-d500-485a-a831-50405e30f030.png)
+
 
 ### 전남 지역 명산 정보 제공 서비스 개발 프로젝트
 링크 : https://github.com/2021-SMHRD-KDT-AI-7/ClimbingMountain
