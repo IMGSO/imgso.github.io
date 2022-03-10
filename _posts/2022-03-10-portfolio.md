@@ -10,6 +10,19 @@ title: Portfolio
 <br>
 2021.10 ~ 2021.12     전남 지역 명산 정보 제공 서비스 개발 프로젝트
 
+### Skills
+● HTML/CSS/Javascript
+● JSP/Servlet
+● Web crawler
+● Oracle DB
+● Java/Python 프로그래밍
+● Python 활용 데이터 전처리/조작
+● 머신러닝, 딥러닝
+● (Kaggle)활용 데이터 분석
+● 딥러닝 (ANN, CNN, RNN, LSTM/GRU)
+● OpenCV 기반의 영상 데이터 처리
+● 안드로이드 프로그래밍
+● 라즈베리파이
 
 ### 피부분석/설문조사 기반 화장품 추천 앱 개발 프로젝트
 링크 : https://github.com/2021-SMHRD-KDT-AI-7/Debugging
